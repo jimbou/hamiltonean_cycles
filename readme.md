@@ -1,6 +1,4 @@
-Here’s a concise **README.md** you can include with your submission — it connects your Python experiment to your presentation (“Undirected Hamiltonian Cycle is NP-Complete”) and the *Theory of Computation* course project:
 
----
 
 # Parameterized Hamiltonicity — Exploring How Graph Constraints Affect Complexity
 
@@ -215,5 +213,6 @@ benchmarks/
 * The **plots visualize the theory**: easy families show linear-time behavior, while NP-complete ones exhibit exponential growth.
 
 ---
-#   h a m i l t o n e a n _ c y c l e s  
+#   h a m i l t o n e a n _ c y c l e s 
+ 
  
